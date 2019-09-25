@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversorDeMoedasComSwitch", "ConversorDeMoedasComSwitch\ConversorDeMoedasComSwitch.csproj", "{759DF0BD-AEE0-4459-A93F-A3DC9325C242}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{759DF0BD-AEE0-4459-A93F-A3DC9325C242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{759DF0BD-AEE0-4459-A93F-A3DC9325C242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{759DF0BD-AEE0-4459-A93F-A3DC9325C242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{759DF0BD-AEE0-4459-A93F-A3DC9325C242}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EAE039D-9C1F-4B97-A55B-BB03DFDCBA70}
+	EndGlobalSection
+EndGlobal
